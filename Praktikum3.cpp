@@ -5,7 +5,7 @@ using namespace std;
 // deklarasi untuk global
 int r;
 
-//fungsi dan prosedur
+//implementasi fungsi dan prosedur
 void input (){
     cout << "Masukan Jari-Jari Lingkaran : ";
     cin >> r;
