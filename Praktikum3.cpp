@@ -9,7 +9,7 @@ void input (){
     cout << "Masukan Jari-Jari Lingkaran : ";
     cin >> r;
 }
-
+//float untuk operasi
 float luaslingkaran (int r){
     return 3.14159*r*r;
 }
