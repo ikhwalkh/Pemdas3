@@ -11,7 +11,7 @@ void input (){
 }
 
 float luaslingkaran (int r){
-    return 3.14159*r*r;
+    return r*r*3.14159;
 }
 
 void output(){
